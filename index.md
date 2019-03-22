@@ -13,9 +13,7 @@ The panelists are:
 
 ### Christan Grant, PhD
 Assistant Professor
-
-Computer Science
-
+Computer Science 
 University of Oklahoma
 
 
