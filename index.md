@@ -7,14 +7,17 @@ _Moderated by Bernease Herman_
 The panelists are:
 
 ### Sarah M Brown, PhD
-Data Science Postdoctoral Associate
-Division of Applied Mathematics
-Brown University
+- Data Science Postdoctoral Associate
+- Division of Applied Mathematics
+- Brown University
 
 ### Christan Grant, PhD
 Assistant Professor
+
 Computer Science
+
 University of Oklahoma
+
 
 ### Chad Jenkins
 Associate Professor
