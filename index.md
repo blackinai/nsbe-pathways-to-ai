@@ -17,12 +17,12 @@ Computer Science
 University of Oklahoma  
 
 
-### Chad Jenkins
-Associate Professor<br>
-Computer Science and Engineering<br>
+### Chad Jenkins, PhD
+Associate Professor  
+Computer Science and Engineering  
 University of Michigan
 
 
 ### Kimberly Martin, MS
-Software Engineer
-Google
+Software Engineer  
+Google  
